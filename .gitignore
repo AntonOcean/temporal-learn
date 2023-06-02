@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# temporal examples
+/edu-101-go-code/
